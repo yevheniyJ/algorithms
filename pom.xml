@@ -12,6 +12,7 @@
     <modules>
         <module>union-find</module>
         <module>stack</module>
+        <module>queue</module>
     </modules>
 
     <build>
